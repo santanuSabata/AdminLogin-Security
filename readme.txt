@@ -1,11 +1,12 @@
 === GuardWP Security ===
-Contributors: sabatasantanu
-Tags: security, login protection, recaptcha, firewall
+Contributors: santanuSabata
+Tags: security, login security, limit login attempts, recaptcha, brute force protection
 Requires at least: 6.0
-Tested up to: 6.4
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 GuardWP Security protects your WordPress site with login protection, reCAPTCHA integration, lockout logs, and security score.
